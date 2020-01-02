@@ -5,7 +5,7 @@ Drive an Xair mixer (XR16/XR18) with an ESP12-F (ESP8266) footswitch over OSC WI
 
 3 switch (non latching or momentary)
 switch Left : (connected to PIN D3) : use internal pull up
-switch Left : (connected to PIN D3) : use internal pull up
+switch Left : (connected to PIN D4) : use internal pull up
 switch tap  : (connected to PIN D0)  : need a pull down resistor of 1M connected to ground
 
 Short push Tap: set the tap tempo of FX1
