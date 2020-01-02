@@ -20,3 +20,12 @@ The code manage mixer and wifi de-connexion + battery charge indication
 To do: 
 - configure the channel to be used via webinterface
 - bugfix: in some certain circumstance, button 1 is switching fx 4... 
+
+
+![image](https://user-images.githubusercontent.com/21040071/71670428-14fe0400-2d70-11ea-958e-ed8e403b05a7.png)
+
+![image](https://user-images.githubusercontent.com/21040071/71670458-2d6e1e80-2d70-11ea-8b30-1f0d794dd4bf.png)
+
+![image](https://user-images.githubusercontent.com/21040071/71670484-4080ee80-2d70-11ea-8a26-32d7928419d2.png)
+
+
