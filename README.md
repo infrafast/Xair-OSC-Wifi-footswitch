@@ -1,4 +1,6 @@
 # Xair-OSC-Wifi-footswitch
+ARDUINO / C++/C
+
 Drive an Xair mixer (XR16/XR18) with an ESP12-F (ESP8266) footswitch over OSC WIFI
 
 3 switch (non latching or momentary)
