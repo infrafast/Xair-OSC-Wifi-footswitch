@@ -37,3 +37,4 @@ To do:
 * code compatibility with other mixer
 * optimize the periodic read() to vaoid looping on all message command, instead do a compare against template and then retrieve the ID
 * allow static IP configuration with no auto-discovery in case multiple mixer are on the network
+* add a "nice" startup/loading animated screen
