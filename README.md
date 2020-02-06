@@ -32,4 +32,8 @@ Show all channel names and manage bi-direction communication (if you change a va
 
 ![user manual](https://user-images.githubusercontent.com/21040071/73779260-c1c30b00-478c-11ea-8f3d-1c95ec042091.png)
 
-
+To do:
+* auto update via web server and local http
+* code compatibility with other mixer
+* optimize the periodic read() to vaoid looping on all message command, instead do a compare against template and then retrieve the ID
+* 
