@@ -12,7 +12,7 @@ Drive an Xair mixer (XR16/XR18) with an ESP12-F (ESP8266) footswitch over OSC WI
 (a more simple verison is also available for Raspberry , no OLED screen but led instead : https://github.com/infrafast/Xair-footswitch-RASPBERRY)
 
 
-[![Video demo](http://img.youtube.com/vi/8BNjt5E4mcg/0.jpg)](http://www.youtube.com/watch?v=8BNjt5E4mcg)
+[![Video demo](http://img.youtube.com/vi/8BNjt5E4mcg/0.jpg)](https://youtu.be/y9CyGoYYEro)
 
 3 switch (non latching or momentary)
 switch Left : (connected to PIN D3) : use internal pull up
