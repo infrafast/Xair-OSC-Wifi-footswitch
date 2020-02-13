@@ -1,11 +1,16 @@
 # Xair-OSC-Wifi-footswitch
 ARDUINO / C++/C
 
-You like this project and would like to see a commercial version => [Support the project via kick starter!](https://www.kickstarter.com/projects/xair/pedale-sans-fil-pour-commander-individuellement-un-mixer-son)
+You like this project and would like to see a commercial version:
+*[Support the project via kick starter!](https://www.kickstarter.com/projects/xair/pedale-sans-fil-pour-commander-individuellement-un-mixer-son)
+*[Subscribe to my newsletter](http://list.groupe-interval.fr/lists/?p=subscribe&id=1)
+
+
 
 Drive an Xair mixer (XR16/XR18) with an ESP12-F (ESP8266) footswitch over OSC WIFI
 
 (a more simple verison is also available for Raspberry , no OLED screen but led instead : https://github.com/infrafast/Xair-footswitch-RASPBERRY)
+
 
 [![Video demo](http://img.youtube.com/vi/8BNjt5E4mcg/0.jpg)](http://www.youtube.com/watch?v=8BNjt5E4mcg)
 
