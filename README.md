@@ -2,8 +2,8 @@
 ARDUINO / C++/C
 
 You like this project and would like to see a commercial version:
-*[Support the project via kick starter!](https://www.kickstarter.com/projects/xair/pedale-sans-fil-pour-commander-individuellement-un-mixer-son)
-*[Subscribe to my newsletter](http://list.groupe-interval.fr/lists/?p=subscribe&id=1)
+* [Support the project via kick starter!](https://www.kickstarter.com/projects/xair/pedale-sans-fil-pour-commander-individuellement-un-mixer-son)
+* [Subscribe to my newsletter](http://list.groupe-interval.fr/lists/?p=subscribe&id=1)
 
 
 
