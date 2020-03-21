@@ -4,6 +4,7 @@ ARDUINO / C++/C
 You like this project and would like to see a commercial version:
 * [Support the project via kick starter!](https://www.kickstarter.com/projects/xair/pedale-sans-fil-pour-commander-individuellement-un-mixer-son)
 * [Subscribe to my newsletter](http://list.groupe-interval.fr/lists/?p=subscribe&id=1)
+* [Visit website](http://footswitch.groupe-interval.fr/)
 
 
 
@@ -40,10 +41,3 @@ Show all channel names and manage bi-direction communication (if you change a va
 ![Webapplication to configure](https://user-images.githubusercontent.com/21040071/73779334-e15a3380-478c-11ea-923a-6042a878fa9a.png)
 
 ![user manual](https://user-images.githubusercontent.com/21040071/73779260-c1c30b00-478c-11ea-8f3d-1c95ec042091.png)
-
-To do:
-* auto update via web server and local http
-* code compatibility with other mixer
-* optimize the periodic read() to vaoid looping on all message command, instead do a compare against template and then retrieve the ID
-* allow static IP configuration with no auto-discovery in case multiple mixer are on the network
-* add a "nice" startup/loading animated screen
