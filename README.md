@@ -10,7 +10,7 @@ You like this project and would like to see a commercial version:
 
 Drive an Xair mixer (XR16/XR18) with an ESP12-F (ESP8266) footswitch over OSC WIFI
 
-(a more simple verison is also available for Raspberry , no OLED screen but led instead : https://github.com/infrafast/Xair-footswitch-RASPBERRY)
+(a more simple version is also available for Raspberry , no OLED screen but led instead : https://github.com/infrafast/Xair-footswitch-RASPBERRY)
 
 
 [![Video demo](http://img.youtube.com/vi/8BNjt5E4mcg/0.jpg)](https://youtu.be/y9CyGoYYEro)
